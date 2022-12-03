@@ -1,4 +1,4 @@
 # Leveraging the power of the web with APIs
-# Python-API-Challenge
+## Python-API-Challenge
 
 ![68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a5f4a4a546b6e4a5950784a504c4e454542336a6837512e676966](https://user-images.githubusercontent.com/115101031/205453329-8972048f-c83e-4db7-adb2-ba0fc82150e0.gif)
