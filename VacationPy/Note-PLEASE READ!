@@ -1,0 +1,5 @@
+# NOTE:
+
+I am not sure why, but when I pushed the "VacationPy.ipynb" file into GitHub the hvplots did not show in the translated file.  
+I Couldn't find a way around this, but have added a PDF of my Jupyter Notebook with the hvplots.
+I also saved the saved bokeh images in the "output_data" folder.
