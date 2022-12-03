@@ -1,3 +1,6 @@
+api_keys_vacation.py
+api_keys_weather.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
